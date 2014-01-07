@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gra - bluetooth</string>
+    <string name="send">Send</string>
+    <string name="secure_connect">Połącz</string>
+    <string name="insecure_connect">Połączenie niezabezpieczone</string>
+    <string name="discoverable">Widoczność urządzenia</string>
+    <string name="button_scan">Skanuj</string>
+    <string name="title_other_devices">Niepowiązane urządzenia</string>
+    <string name="title_paired_devices">Powiązane urządzenia</string>
+    <string name="title_connecting">Łączenie...</string>
+    <string name="title_connected_to">Połączono: </string>
+    <string name="title_not_connected">Nie połączono</string>
+    <string name="disconnect">Rozłącz</string>
+</resources>
